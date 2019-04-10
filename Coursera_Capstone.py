@@ -1,4 +1,4 @@
-#Learning how to use to Terminal and Github.
+#Learning how to get use to Terminal and Github.
 
 import numpy as np 
 import pandas as pd
